@@ -1,0 +1,15 @@
+import numpy as np
+
+array=np.array([3,5,6,7,8,98,76,5,4])
+print("sum of array")
+print(array.sum())
+print("Mean of array")
+print(array.mean())
+print("Minimum value of array")
+print(array.min())
+print("Maximum value of array")
+print(array.max())
+print("standard deviation")
+print(array.std())
+print("Varience")
+print(array.var())
